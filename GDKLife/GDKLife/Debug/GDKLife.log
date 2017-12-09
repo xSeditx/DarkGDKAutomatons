@@ -1,0 +1,85 @@
+﻿Build started 12/9/2017 2:49:41 AM.
+     1>Project "C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\GDKLife\GDKLife.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GDKLife.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Ot /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MAIN.cpp
+         MAIN.cpp
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(175): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(175): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(176): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(178): warning C4101: 'YY' : unreferenced local variable
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(178): warning C4101: 'XX' : unreferenced local variable
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(199): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(209): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(209): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(209): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(227): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(227): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(235): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(236): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(258): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(258): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(272): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(273): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(277): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(277): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(292): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(293): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(305): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(305): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(305): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(305): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(319): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(319): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(319): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(331): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(332): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(343): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(344): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(362): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.h(367): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(15): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(36): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(36): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(47): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(47): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(48): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(51): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(51): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(53): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(53): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(212): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(212): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(221): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(221): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(231): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(232): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(219): warning C4101: 'COUNT' : unreferenced local variable
+     1>c:\users\curt\documents\visual studio 2010\projects\gdklife\gdklife\main.cpp(243): warning C4244: 'initializing' : conversion from 'DWORD' to 'float', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\GDKLife.exe" /INCREMENTAL:NO /NOLOGO DarkSDK.lib /NODEFAULTLIB:libcmtd /MANIFEST /ManifestFile:"Debug\GDKLife.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\GDKLife.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\GDKLife.lib" /MACHINE:X86 Debug\MAIN.obj
+     1>MAIN.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     1>animation.lib(wxutil.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(wxutil.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+     1>animation.lib(wxlist.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(wxlist.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+     1>animation.lib(wxdebug.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(wxdebug.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+     1>animation.lib(renbase.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(renbase.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+     1>animation.lib(mtype.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(mtype.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+     1>animation.lib(ctlutil.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(ctlutil.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+     1>animation.lib(combase.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(combase.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+     1>animation.lib(amvideo.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(amvideo.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+     1>animation.lib(amfilter.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'animation.lib(amfilter.obj)' or at 'C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\vc60.pdb'; linking object as if no debug info
+         GDKLife.vcxproj -> C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\GDKLife.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\Debug\GDKLife.exe;#1" /manifest Debug\GDKLife.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\GDKLife.unsuccessfulbuild".
+         Touching "Debug\GDKLife.lastbuildstate".
+     1>Done Building Project "C:\Users\Curt\Documents\Visual Studio 2010\Projects\GDKLife\GDKLife\GDKLife.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.71
